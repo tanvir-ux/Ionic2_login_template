@@ -1,0 +1,49 @@
+page-home {
+
+	
+
+	background: #9575CD;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    h1{
+    color: white;
+    }
+
+    div.form{
+        width: 312px;
+    height: 200px;
+    background: #795548;
+    margin: 50% auto;
+    padding: 15%;
+    opacity: .8;
+    }
+
+
+    input{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px;
+    padding: 0px;
+    margin: 0px;
+    font-size: medium;
+    background: #455A64;
+    border: none;
+    color: white;
+    margin-bottom: 10px;
+    }
+
+    button{
+    width: 100px;
+    height: 30px;
+    border-radius: 2px;
+    font-size: larger;
+    background: #f44336;
+    opacity: .9;
+    }
+
+
+}
+
+
